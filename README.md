@@ -1,2 +1,2 @@
 # iot_tivokasi_razzan
-repository untuk progres mata kuliah iot fakultas vokasi 2025
+Repository untuk pelaporan progress matakuliah IoT Fakultas Vokasi Tahun 2025
